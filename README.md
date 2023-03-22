@@ -70,8 +70,12 @@ in order that when We Try to Send More and More E-Mails, Application will stop t
 Watch out From: We've noticed some unusual activity in your Outlook account. To help protect you, we've temporarily blocked it. Please verify your account. 
 You can verify and problem will be resolve and you can use the program again
 
-## Known Issues
 
+## Appendix
+
+* I have been add time to sleep some seconds between every E-Mail, that can hold the remporary banned some little.
+
+## Known Issues
 Any issues are usually because the underlying browser automation framework has a
 bug or inconsistency. Where possible, we try to cover up these underlying
 problems in the client, but sometimes workarounds require higher-level
@@ -83,7 +87,7 @@ expected.
 [issue]: https://github.com/LeaDer-E/Outlook-Bulk-Mails-Sender/issues/new
 
 ## Author's name.
-- [@Eslam Mustafa](https://github.com/LeaDer-E/)
+- [@Eslam Mustafa](https://github.com/LeaDer-E/](https://www.linkedin.com/in/LeaDer-E/)
 
 
 ## Cridit
