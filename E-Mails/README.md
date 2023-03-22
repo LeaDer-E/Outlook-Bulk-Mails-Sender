@@ -1,5 +1,8 @@
 # E-Mails List
 
+### Note:
+  The List Have 262 Not Working Mail ;)
+
 * IT@mobily.com.sa
 * support@ipowerweb.com
 * info@cristalarabia.com
