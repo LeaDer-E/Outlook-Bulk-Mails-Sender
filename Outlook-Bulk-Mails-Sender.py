@@ -2,6 +2,7 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
+import time
 
 print("Outlook-Bulk v1.0.0")
 print("Created By Eslam-Mustafa. \n Linked in: https://www.linkedin.com/in/LeaDer-E/ \n I hope you like it")
@@ -38,4 +39,5 @@ attachment_path = 'File/Path.pdf'
 for address in to_addresses:
     send_email([address], subject, message, attachment_path)
     print("[+] Mail Sended to :", address," ^.^")
+    time.sleep(5)
 
