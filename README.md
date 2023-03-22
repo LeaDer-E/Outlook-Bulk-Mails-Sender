@@ -67,6 +67,10 @@ Change The Lines Above:
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/99460904/226981595-eaf352c4-4e88-439c-9c5c-1a690e3c350f.png)
 
+## Speed and Duration:
+* 430 Mail Takes 50 Min.
+* 1 Mail\7 Secounds
+
 ## Tutorial
 ### Vedio on youtube
 [![Watch the video](https://user-images.githubusercontent.com/99460904/179158938-e161db4b-c111-446a-ab21-0da683a6e8d2.png)](https://youtu.be/bXov3q9xgwI)
