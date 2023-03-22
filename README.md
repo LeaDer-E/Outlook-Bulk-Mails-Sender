@@ -76,6 +76,14 @@ in order that when We Try to Send More and More E-Mails, Application will stop t
 Watch out From: We've noticed some unusual activity in your Outlook account. To help protect you, we've temporarily blocked it. Please verify your account. 
 You can verify and problem will be resolve and you can use the program again
 
+### Fixing
+
+![image](https://user-images.githubusercontent.com/99460904/227046565-d87ebb12-6574-4ebc-9692-266b90078e6c.png)
+
+when You Get Error About Blocking You Can Try To Unlock E-Mail With Small Verify by Your Phone Number.
+Working with Microsoft Edge Browser, You cat take a look about this [Topic][Topic]
+[Topic]: https://support.microsoft.com/en-us/account-billing/account-has-been-locked-805e8b0d-4141-29b2-7b65-df6ff6c9ce27
+
 
 ## Appendix
 
