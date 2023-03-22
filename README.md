@@ -87,7 +87,7 @@ expected.
 [issue]: https://github.com/LeaDer-E/Outlook-Bulk-Mails-Sender/issues/new
 
 ## Author's name.
-- [@Eslam Mustafa](https://github.com/LeaDer-E/](https://www.linkedin.com/in/LeaDer-E/)
+- [@Eslam Mustafa]([https://github.com/LeaDer-E/](https://www.linkedin.com/in/LeaDer-E/])
 
 
 ## Cridit
