@@ -1,432 +1,432 @@
 # E-Mails List
 
-IT@mobily.com.sa
-support@ipowerweb.com
-info@cristalarabia.com
-info@sapac.com.sa
-info@aswadgroup.com
-career@safari.com.sa
-info@aswadgroup.com
-CV@ardco.com.sa
-siec@siec.com.sa
-careers@akte.com.sa
-tifajob@yahoo.com
-Mardig@samir-photo.com
-Chaoul@samir-photo.com
-careers@almarai.com
-jobs@aecl.com
-mrasing@kfshrc.edu.sa
-info@petrominoils.com
-Jobs@aas.com.sa
-hrsaudi@jatco.com.sa
-jkawamoto@mdbio.org
-info@saudichamber.org.sa
-admin@saudifal.com.sa
-admin@umc.com.sa
-natel@natel.com.sa
-HRD@stesa.com
-jobs@nasco.com.sa
-hrdept@alsalamircraft.com.sa
-careersaudi@sls.com.sa
-jobs@acssco.com
-career@alharbitelecom.com
-Recruitment@saib.com.sa
-jobs@econcepts.com.sa
-resumes@deemah.com
-info@wec.com.sa
-careers@qcc.com.sa
-cv@alrajhibank.com.sa
-CKT41317@biglobe.ne.jp
-g_m@alumaco.com
-info@almultaka.com.sa
-sami@suhuf.net.sa
-comment@chevron.com
-webinfo@tadawul.com.sa
-recruitment@kjo.com.sa
-rcgc@riyadh-cables.com
-info@arabexperts.com
-info@alarkan.com
-info@areeco.com
-intertech@intertech-pal.com
-asdp@sdt.com.sa
-s_hoshan@alsalamaircraft.com.sa
-cfo@alsalamaircraft.com.sa
-almady@sabic.com
-maaden@maaden.com.sa
-sales@somac-it.com
-support@somac-it.com
-ayalkhiary@arcom.com.sa
-ses@saudico.com.sa
-sesdam@nournet.com.sa
-info@elm.com.sa
-general@nic.com.sa
-ceo@se.com.sa
-info@arabsea.com
-info@newera.com.sa
-HR@sipchem.com
-info@keylink.com
-info@saparabia.com
-info@ncsc.com.sa
-ceomail@nscsa.com.sa
-dabbaghae@maaden.com.sa
-info@mis.com.sa
-siec@siec.com.sa
-daghameen@natcom.com.sa
-sales@natmetalco.com
-apmms@atco.com.sa
-rgalloway@smith.com
-amsari@emailsrvc.com
-alajmico@saudionline.com.sa
-sales@ati.com.sa
-info@alhajry-overseas.com.sa
-akam@arabia.com
-abbasm@anet.sa
-ahc@alhejailan-consultants.com
-bbanzon@al-hoty.com
-helpdefk@almisehal.com
-alsuwaiket@saudionline.com.sa
-aqfk@sahara.com.sa
-ghalili@aujan.com.sa
-abssa@awalnet.net.sa
-waleed.abuzaid@acec-sa.com
-jihad@amcde.com
-mike.scott@bakeratlas.com
-ed.parker@bakeroiltools.com
-harbourm@camerondiv.com
-Oussama@frankssaudi.com
-aharamco@hugayet.com.sa
-tariq@barwani.com
-pi-consult@sps.net.sa
-ncmsdm@zajil.net
-anwar.ahmad@shoaibigroup.com
-manadmin@sayboltsa.com
-george.coutts@weatherfordsa.com
-summit@zajil.net
-zparabia@saudionline.com.sa
-abbasm@anet.sa
-zomco@zamil-om.com
-operations.rastanura@inspectorate.com.sa
-recruitmentsabb@sabb.com
-ecareer@stc.com.sa
-wwd@smi.com.sa
-opmubarak@rediffmail.com
-info@hp.com.sa
-mail@acec-sa.com
-contact@stc.com.sa
-employment@gulfbase.com
-info@saparabia.com
-rcgc@riyadh-cables.com
-info@alfozan.com
-sales@gcspaints.com
-info@mugbil.com
-saudi_resume@myway.com
-SaudiArabia@baesystems.com
-iyadfakhry@hotmail.com
-ali@baasem.com
-jamshed@smbasuliman.com
-mansoork45@hotmail.com
-edris@haj.com.sa
-cv@cv2005.worldispnetwork.com
-ufarook@alhokair.com.sa
-corporate_sa@hotmail.com
-careers@saudi.switzgroup.com
-jobsinmarketing2005@rediffmail.com
-sure@saudi.net.sa
-hrjed@hotpop.com
-hr@allied-medical.com
-aytb@qatar.net.qa
-socproject2006@hotmail.com
-careers@almarai.com
-rec1@alfanar.com
-jalal.mounayar@gmail.com
-hr@sfc-ksa.com
-info@lics.sa.com
-jobsindammam@gmail.com
-aa_waseem@yahoo.com
-wahabnk@gmail.com
-jobsin2006@yahoo.com
-info@infoline.com.sa
-saudi.a@rediffmail.com
-hrd@robian.com.sa
-ignou@ateico.net
-info@sony.com
-hr-e@safari-e.com
-aztracon@tri.net.sa
-roudah@cyberia.net.sa
-fkashkash@yahoo.com
-hotjob7@yahoo.com
-saudianfal@yahoo.com
-humres@alhamaco.com
-jobs@robian.com.sa
-adartsigns@awalnet.com.sa
-foodworld@mail.com
-admin@globemedsaudi.com
-financerecruitem@yahoo.com
-topnotchpositions@yahoo.com
-equipmentrentaljobsinuae@yahoo.com
-akelco@akel.com.sa
-jobs_wfi@yahoo.com
-furfab@jrec.com.sa
-youssef.utc@zajil.net
-sales@arabequipmentest.com
-jobs@metco.com.sa
-gulfelite@hotmail.com
-itjobs@alhokair.com.sa
-Itr_c@yahoo.com
-arch@figuresgroup.com
-info@dasmanfood.com.sa
-purchase@epcco.com
-recruit@anholdings.com
-shayaisd@nesma.net.sa
-careersatriyadh@yahoo.com
-baesystemsrecruitmentext2@hr.xchanging.com
-saudi_resume@yahoo.com
-careers@aljomaihbev.com
-TURKID@hotmail.com
-hr@alsuroor.com
-jobs_a_m@yahoo.com
-syed.zafer@sa.abb.com
-karan@al-araj.com
-atlasahr@hotmail.com
-info@saudicast.com
-hr@alkhorayef.com
-najmi9455@yahoo.com
-arbsco@yahoo.com
-breem@awalnet.net.sa
-info@alnafea.com.sa
-Recruitment@aljomaihbev.com
-hrmanager04@yahoo.com
-al-hassan@al-babtain-himb.com
-alsaidaest@zajil.net
-abdulhadi@altoukhi.com
-astra@astra.com
-jobs@badgaish.com
-scphr@saudichevron.com
-estimator001@yahoo.com
-batoul.ashi@exel.com
-baziad@baziad.com
-jobs@aecl.com
-info@al-baddad.com
-rec1@alfanar.com
-auto_career@yahoo.com
-admin@alkhodari.com
-info@aloula.com
-info@asasyah.com
-Atlas4hr@hotmail.com
-jobs@carriersaudi.com
-aah1954@hotmail.com
-aly@el-zayat.com
-hrconsultant_lbn@yahoo.com
-sisrecruitment@alsuwaidi.com.sa
-recruiting@bravo-power.com.sa
-sahaider@surebeammiddleeast.com
-recruitment.ksa@pwclogistics.com
-SA-Human-Resources@sa.schneider-electric.com
-recruitment.services@sa.ey.com
-recruitment@RCJubil.gov.sa
-swedishtradecouncil@gmail.com
-backfillingjob@hotmail.com
-jobs2005e@yahoo.com
-danfoss@emirates.net.ae
-recruitment@damacgroup.com
-jobs.gps@sps.net.sa
-furfab@jrec.com.sa
-asif@ipc-ksa.com
-edward@imc.com.sa
-pmd@pmd-co.com
-maaden@maaden.com.sa
-slhh002@motorola.com
-hrd@mynaghi.com.sa
-mchehab@indsci.com
-employment@thuraya.com
-wpccl.saudi@wartsila.com
-jobs@isys.com.sa
-CSM.KSA@gmail.com
-fax2417049@yahoo.com
-marblek6@yahoo.com
-ifo@umg.com.sa
-info@power-horizon.com
-saudihr-2006@hotmail.com
-info@tetratech.com.sa
-v_k_000@yahoo.com
-production.KSA@gmail.com
-jeddah_company@yahoo.com
-gerald.jude@people-one.com
-jaleel@safari.com.sa
-intercol@emirates.net.ae
-afs@recruit.services.com.sa
-jobs@integrated-telecom.com
-aazmi@rtcc.com.sa
-info@zahid.com
-afecest@yahoo.com
-hrm@mscc.com.sa
-JOPCV@yahoo.com
-jobs@loyalty-inc.com
-mbmanager@alyaum.com
-dynatrde@emirates.net.ae
-z4ha@zagzoog.com
-cmhiring@gmail.com
-hrsaudi1005@yahoo.com
-Mmujeeb6100@hotmail.com
-jobs_250@yahoo.com
-edse_otao@hotmail.com
-vaslhrb@vinnellarabia.com
-jobsready@gmail.com
-marketcv@yahoo.com
-jobsht83@yahoo.com
-jeddah987@yahoo.com
-hadadi.ha@pg.com
-nw@mriwwuae.ae
-fooda7@hotmail.com
-pcie@icc.com.sa
-anaziq@ngha.med.sa
-nizar@hugayet.com.sa
-jobs@wataniaind.com
-mangcv@yahoo.com
-ahmed@nie.com.sa
-siec@siec.com.sa
-Jobsearchksa@gmail.com
-yabdullah@bayanat.com.sa
-sa_careers@yahoo.com
-smalkhelaifi@gmail.com
-recruiting@al-khobar.oilfield.slb.com
-info@detasad.com.sa
-hotjob7@yahoo.com
-aharamco@hugayet.com.sa
-k.m.m.f@hotmail.com
-hr_510@yahoo.com
-cfo@redagroup.com
-hr2004rd@yahoo.com
-info@abedalmishal.com
-HR@sipchem.com
-iimit@sahara.com.sa
-careers@shb.com.sa
-jobs@alfransi.com.sa
-Recruitment@saib.com.sa
-careers@anb.com.sa
-info@jabalomar.com
-recruitment@marafiq.com.sa
-info.petrol@aldrees.com
-z.fallatah@alahli.com
-marketinginfo@alrabie.com
-cargo.marketing@flybmi.com
-Humanresource@sro.org.sa
-sdgc@sps.net.sa
-apply@overseasoiljobs.com
-privacy@kpmg.com
-idbarchives@isdb.org.sa
-liezhel@ccmrecruitment.com
-careerpath_saudiarabia@yahoo.com
-kas@axiomtelecom.com
-f.taha@biosaline.org.ae
-jobs.si@intercol.com
-adahi@isdb.org.sa
-jeddah_company@yahoo.com
-saudicv@dalmaenergy.com
-info@alahli.com
-irasheed2006@yahoo.com
-info@ttcoman.com
-jobs.riyadh@yahoo.com
-uitc2006@yahoo.com
-arabia@typsa.es
-dhcl_projects@yahoo.com
-moussa@cmci-sa.com
-career@giordano.com.sa
-emd@alharbi.com.sa
-imad@pilogksa.com
-info@cellucom.com
-info@herfy.com
-info@sasref.com.sa
-expocareer@gmail.com
-hr@alhussan.edu.sa
-al3jmi@gmail.com
-hrryd@hotmail.com
-lock777@gmail.com
-marblek6@yahoo.com
-jobs2005_cv@yahoo.com
-info@zate.com.sa
-recruitsksa@yahoo.com
-efira_1@yahoo.com
-callcenter@mobily.com.sa
-farranoussama@yahoo.com
-minhajroma@hotmail.com
-nassan0a0@yahoo.com
-menahr@gmail.com
-m0306@jobsincompany.com
-areel@otaishan.com.sa
-kmasrouha@aaltaher.com
-salam@atc.com.sa
-jobsfd@spgsteel.com
-saudi_resume@myway.com
-kuthb@brainlease.com
-sdjobs@sps.net.sa
-info@detasad.com.sa
-anand@darinfotech.com
-recruitment@almarai.com
-hazzaa.moahmmad@aramco.com
-hr@jatco.com.sa
-careers@gmail.com
-pilotrecruitment@airarabia.com
-hrsaudi@jatco.com.sa
-tingdh@gmail.com
-linkindiagcc@yahoo.com
-reservations2@holidayautos.com.sa
-nizar@hugayet.com.sa
-buddyvillas@al-hoty.com
-aasfoor@kwsal.com
-ampo@ampo.com.sa
-kfmc@kfmc.med.sa
-cv.candidate@yahoo.com
-dpt@arabianbemco.com
-info@mercan.com
-kfshdm@gmail.com
-info@nafkal.com
-info-cv@hotmail.com
-shifajed@hotmail.com
-hrconsultantIbn@yahoo.com
-admin.dpt@arabianbemco.com
-sbahchr@humanitariancity.org.sa
-alrashidf@rsal.com
-jobs@kfmc.med.sa
-m.khodair@itm.com.sa
-consult@masorg.com
-kevin.bell@internationalpaint.com
-info@sails.net
-mustafa.khamees@aramco.com
-bijui@hakgroup.com
-recruitment@airarabia.com
-itrecruitment@airarabia.com
-omatrajed@saudionline.com.sa
-hr@alkhorayef.com
-idris.slc@eajb.com.sa
-careershr2006@gmail.com
-hrms_info@yahoo.com
-marblek6@yahoo.com
-turki@safari.com.sa
-jobs_wfi@yahoo.com
-gdcjed@yahoo.com
-n_somarajan@yahoo.com
-hr@daleelteq.com
-acbi-career@cbi.com
-job_cv_email@yahoo.com
-resume@al-khaleej.net
-jobs@metco.com.sa
-info@msargroup.com
-tuttimango@sps.net.sa
-salaliw@yahoo.com
-hrd@ermatc.com
-rcgc@riyadh-cables.com
-myqassem@hotmail.com
-fishingksa@gmail.com
-jciservices@yahoo.com
-itjobs@kojamjoom.com
-personnelksa@gmail.com
-ksajob06@yahoo.com
-light2005-jobs@yahoo.com
-hr@nasaviation.com
-fastrecruitment@hotmail.com
-executive@souksconsulting.com
-saudi_job_app@yahoo.com
-info@qecons.com
-scphr@saudichevron.com
-alwassel@anet.net.sa
+* IT@mobily.com.sa
+* support@ipowerweb.com
+* info@cristalarabia.com
+* info@sapac.com.sa
+* info@aswadgroup.com
+* career@safari.com.sa
+* info@aswadgroup.com
+* CV@ardco.com.sa
+* siec@siec.com.sa
+* careers@akte.com.sa
+* tifajob@yahoo.com
+* Mardig@samir-photo.com
+* Chaoul@samir-photo.com
+* careers@almarai.com
+* jobs@aecl.com
+* mrasing@kfshrc.edu.sa
+* info@petrominoils.com
+* Jobs@aas.com.sa
+* hrsaudi@jatco.com.sa
+* jkawamoto@mdbio.org
+* info@saudichamber.org.sa
+* admin@saudifal.com.sa
+* admin@umc.com.sa
+* natel@natel.com.sa
+* HRD@stesa.com
+* jobs@nasco.com.sa
+* hrdept@alsalamircraft.com.sa
+* careersaudi@sls.com.sa
+* jobs@acssco.com
+* career@alharbitelecom.com
+* Recruitment@saib.com.sa
+* jobs@econcepts.com.sa
+* resumes@deemah.com
+* info@wec.com.sa
+* careers@qcc.com.sa
+* cv@alrajhibank.com.sa
+* CKT41317@biglobe.ne.jp
+* g_m@alumaco.com
+* info@almultaka.com.sa
+* sami@suhuf.net.sa
+* comment@chevron.com
+* webinfo@tadawul.com.sa
+* recruitment@kjo.com.sa
+* rcgc@riyadh-cables.com
+* info@arabexperts.com
+* info@alarkan.com
+* info@areeco.com
+* intertech@intertech-pal.com
+* asdp@sdt.com.sa
+* s_hoshan@alsalamaircraft.com.sa
+* cfo@alsalamaircraft.com.sa
+* almady@sabic.com
+* maaden@maaden.com.sa
+* sales@somac-it.com
+* support@somac-it.com
+* ayalkhiary@arcom.com.sa
+* ses@saudico.com.sa
+* sesdam@nournet.com.sa
+* info@elm.com.sa
+* general@nic.com.sa
+* ceo@se.com.sa
+* info@arabsea.com
+* info@newera.com.sa
+* HR@sipchem.com
+* info@keylink.com
+* info@saparabia.com
+* info@ncsc.com.sa
+* ceomail@nscsa.com.sa
+* dabbaghae@maaden.com.sa
+* info@mis.com.sa
+* siec@siec.com.sa
+* daghameen@natcom.com.sa
+* sales@natmetalco.com
+* apmms@atco.com.sa
+* rgalloway@smith.com
+* amsari@emailsrvc.com
+* alajmico@saudionline.com.sa
+* sales@ati.com.sa
+* info@alhajry-overseas.com.sa
+* akam@arabia.com
+* abbasm@anet.sa
+* ahc@alhejailan-consultants.com
+* bbanzon@al-hoty.com
+* helpdefk@almisehal.com
+* alsuwaiket@saudionline.com.sa
+* aqfk@sahara.com.sa
+* ghalili@aujan.com.sa
+* abssa@awalnet.net.sa
+* waleed.abuzaid@acec-sa.com
+* jihad@amcde.com
+* mike.scott@bakeratlas.com
+* ed.parker@bakeroiltools.com
+* harbourm@camerondiv.com
+* Oussama@frankssaudi.com
+* aharamco@hugayet.com.sa
+* tariq@barwani.com
+* pi-consult@sps.net.sa
+* ncmsdm@zajil.net
+* anwar.ahmad@shoaibigroup.com
+* manadmin@sayboltsa.com
+* george.coutts@weatherfordsa.com
+* summit@zajil.net
+* zparabia@saudionline.com.sa
+* abbasm@anet.sa
+* zomco@zamil-om.com
+* operations.rastanura@inspectorate.com.sa
+* recruitmentsabb@sabb.com
+* ecareer@stc.com.sa
+* wwd@smi.com.sa
+* opmubarak@rediffmail.com
+* info@hp.com.sa
+* mail@acec-sa.com
+* contact@stc.com.sa
+* employment@gulfbase.com
+* info@saparabia.com
+* rcgc@riyadh-cables.com
+* info@alfozan.com
+* sales@gcspaints.com
+* info@mugbil.com
+* saudi_resume@myway.com
+* SaudiArabia@baesystems.com
+* iyadfakhry@hotmail.com
+* ali@baasem.com
+* jamshed@smbasuliman.com
+* mansoork45@hotmail.com
+* edris@haj.com.sa
+* cv@cv2005.worldispnetwork.com
+* ufarook@alhokair.com.sa
+* corporate_sa@hotmail.com
+* careers@saudi.switzgroup.com
+* jobsinmarketing2005@rediffmail.com
+* sure@saudi.net.sa
+* hrjed@hotpop.com
+* hr@allied-medical.com
+* aytb@qatar.net.qa
+* socproject2006@hotmail.com
+* careers@almarai.com
+* rec1@alfanar.com
+* jalal.mounayar@gmail.com
+* hr@sfc-ksa.com
+* info@lics.sa.com
+* jobsindammam@gmail.com
+* aa_waseem@yahoo.com
+* wahabnk@gmail.com
+* jobsin2006@yahoo.com
+* info@infoline.com.sa
+* saudi.a@rediffmail.com
+* hrd@robian.com.sa
+* ignou@ateico.net
+* info@sony.com
+* hr-e@safari-e.com
+* aztracon@tri.net.sa
+* roudah@cyberia.net.sa
+* fkashkash@yahoo.com
+* hotjob7@yahoo.com
+* saudianfal@yahoo.com
+* humres@alhamaco.com
+* jobs@robian.com.sa
+* adartsigns@awalnet.com.sa
+* foodworld@mail.com
+* admin@globemedsaudi.com
+* financerecruitem@yahoo.com
+* topnotchpositions@yahoo.com
+* equipmentrentaljobsinuae@yahoo.com
+* akelco@akel.com.sa
+* jobs_wfi@yahoo.com
+* furfab@jrec.com.sa
+* youssef.utc@zajil.net
+* sales@arabequipmentest.com
+* jobs@metco.com.sa
+* gulfelite@hotmail.com
+* itjobs@alhokair.com.sa
+* Itr_c@yahoo.com
+* arch@figuresgroup.com
+* info@dasmanfood.com.sa
+* purchase@epcco.com
+* recruit@anholdings.com
+* shayaisd@nesma.net.sa
+* careersatriyadh@yahoo.com
+* baesystemsrecruitmentext2@hr.xchanging.com
+* saudi_resume@yahoo.com
+* careers@aljomaihbev.com
+* TURKID@hotmail.com
+* hr@alsuroor.com
+* jobs_a_m@yahoo.com
+* syed.zafer@sa.abb.com
+* karan@al-araj.com
+* atlasahr@hotmail.com
+* info@saudicast.com
+* hr@alkhorayef.com
+* najmi9455@yahoo.com
+* arbsco@yahoo.com
+* breem@awalnet.net.sa
+* info@alnafea.com.sa
+* Recruitment@aljomaihbev.com
+* hrmanager04@yahoo.com
+* al-hassan@al-babtain-himb.com
+* alsaidaest@zajil.net
+* abdulhadi@altoukhi.com
+* astra@astra.com
+* jobs@badgaish.com
+* scphr@saudichevron.com
+* estimator001@yahoo.com
+* batoul.ashi@exel.com
+* baziad@baziad.com
+* jobs@aecl.com
+* info@al-baddad.com
+* rec1@alfanar.com
+* auto_career@yahoo.com
+* admin@alkhodari.com
+* info@aloula.com
+* info@asasyah.com
+* Atlas4hr@hotmail.com
+* jobs@carriersaudi.com
+* aah1954@hotmail.com
+* aly@el-zayat.com
+* hrconsultant_lbn@yahoo.com
+* sisrecruitment@alsuwaidi.com.sa
+* recruiting@bravo-power.com.sa
+* sahaider@surebeammiddleeast.com
+* recruitment.ksa@pwclogistics.com
+* SA-Human-Resources@sa.schneider-electric.com
+* recruitment.services@sa.ey.com
+* recruitment@RCJubil.gov.sa
+* swedishtradecouncil@gmail.com
+* backfillingjob@hotmail.com
+* jobs2005e@yahoo.com
+* danfoss@emirates.net.ae
+* recruitment@damacgroup.com
+* jobs.gps@sps.net.sa
+* furfab@jrec.com.sa
+* asif@ipc-ksa.com
+* edward@imc.com.sa
+* pmd@pmd-co.com
+* maaden@maaden.com.sa
+* slhh002@motorola.com
+* hrd@mynaghi.com.sa
+* mchehab@indsci.com
+* employment@thuraya.com
+* wpccl.saudi@wartsila.com
+* jobs@isys.com.sa
+* CSM.KSA@gmail.com
+* fax2417049@yahoo.com
+* marblek6@yahoo.com
+* ifo@umg.com.sa
+* info@power-horizon.com
+* saudihr-2006@hotmail.com
+* info@tetratech.com.sa
+* v_k_000@yahoo.com
+* production.KSA@gmail.com
+* jeddah_company@yahoo.com
+* gerald.jude@people-one.com
+* jaleel@safari.com.sa
+* intercol@emirates.net.ae
+* afs@recruit.services.com.sa
+* jobs@integrated-telecom.com
+* aazmi@rtcc.com.sa
+* info@zahid.com
+* afecest@yahoo.com
+* hrm@mscc.com.sa
+* JOPCV@yahoo.com
+* jobs@loyalty-inc.com
+* mbmanager@alyaum.com
+* dynatrde@emirates.net.ae
+* z4ha@zagzoog.com
+* cmhiring@gmail.com
+* hrsaudi1005@yahoo.com
+* Mmujeeb6100@hotmail.com
+* jobs_250@yahoo.com
+* edse_otao@hotmail.com
+* vaslhrb@vinnellarabia.com
+* jobsready@gmail.com
+* marketcv@yahoo.com
+* jobsht83@yahoo.com
+* jeddah987@yahoo.com
+* hadadi.ha@pg.com
+* nw@mriwwuae.ae
+* fooda7@hotmail.com
+* pcie@icc.com.sa
+* anaziq@ngha.med.sa
+* nizar@hugayet.com.sa
+* jobs@wataniaind.com
+* mangcv@yahoo.com
+* ahmed@nie.com.sa
+* siec@siec.com.sa
+* Jobsearchksa@gmail.com
+* yabdullah@bayanat.com.sa
+* sa_careers@yahoo.com
+* smalkhelaifi@gmail.com
+* recruiting@al-khobar.oilfield.slb.com
+* info@detasad.com.sa
+* hotjob7@yahoo.com
+* aharamco@hugayet.com.sa
+* k.m.m.f@hotmail.com
+* hr_510@yahoo.com
+* cfo@redagroup.com
+* hr2004rd@yahoo.com
+* info@abedalmishal.com
+* HR@sipchem.com
+* iimit@sahara.com.sa
+* careers@shb.com.sa
+* jobs@alfransi.com.sa
+* Recruitment@saib.com.sa
+* careers@anb.com.sa
+* info@jabalomar.com
+* recruitment@marafiq.com.sa
+* info.petrol@aldrees.com
+* z.fallatah@alahli.com
+* marketinginfo@alrabie.com
+* cargo.marketing@flybmi.com
+* Humanresource@sro.org.sa
+* sdgc@sps.net.sa
+* apply@overseasoiljobs.com
+* privacy@kpmg.com
+* idbarchives@isdb.org.sa
+* liezhel@ccmrecruitment.com
+* careerpath_saudiarabia@yahoo.com
+* kas@axiomtelecom.com
+* f.taha@biosaline.org.ae
+* jobs.si@intercol.com
+* adahi@isdb.org.sa
+* jeddah_company@yahoo.com
+* saudicv@dalmaenergy.com
+* info@alahli.com
+* irasheed2006@yahoo.com
+* info@ttcoman.com
+* jobs.riyadh@yahoo.com
+* uitc2006@yahoo.com
+* arabia@typsa.es
+* dhcl_projects@yahoo.com
+* moussa@cmci-sa.com
+* career@giordano.com.sa
+* emd@alharbi.com.sa
+* imad@pilogksa.com
+* info@cellucom.com
+* info@herfy.com
+* info@sasref.com.sa
+* expocareer@gmail.com
+* hr@alhussan.edu.sa
+* al3jmi@gmail.com
+* hrryd@hotmail.com
+* lock777@gmail.com
+* marblek6@yahoo.com
+* jobs2005_cv@yahoo.com
+* info@zate.com.sa
+* recruitsksa@yahoo.com
+* efira_1@yahoo.com
+* callcenter@mobily.com.sa
+* farranoussama@yahoo.com
+* minhajroma@hotmail.com
+* nassan0a0@yahoo.com
+* menahr@gmail.com
+* m0306@jobsincompany.com
+* areel@otaishan.com.sa
+* kmasrouha@aaltaher.com
+* salam@atc.com.sa
+* jobsfd@spgsteel.com
+* saudi_resume@myway.com
+* kuthb@brainlease.com
+* sdjobs@sps.net.sa
+* info@detasad.com.sa
+* anand@darinfotech.com
+* recruitment@almarai.com
+* hazzaa.moahmmad@aramco.com
+* hr@jatco.com.sa
+* careers@gmail.com
+* pilotrecruitment@airarabia.com
+* hrsaudi@jatco.com.sa
+* tingdh@gmail.com
+* linkindiagcc@yahoo.com
+* reservations2@holidayautos.com.sa
+* nizar@hugayet.com.sa
+* buddyvillas@al-hoty.com
+* aasfoor@kwsal.com
+* ampo@ampo.com.sa
+* kfmc@kfmc.med.sa
+* cv.candidate@yahoo.com
+* dpt@arabianbemco.com
+* info@mercan.com
+* kfshdm@gmail.com
+* info@nafkal.com
+* info-cv@hotmail.com
+* shifajed@hotmail.com
+* hrconsultantIbn@yahoo.com
+* admin.dpt@arabianbemco.com
+* sbahchr@humanitariancity.org.sa
+* alrashidf@rsal.com
+* jobs@kfmc.med.sa
+* m.khodair@itm.com.sa
+* consult@masorg.com
+* kevin.bell@internationalpaint.com
+* info@sails.net
+* mustafa.khamees@aramco.com
+* bijui@hakgroup.com
+* recruitment@airarabia.com
+* itrecruitment@airarabia.com
+* omatrajed@saudionline.com.sa
+* hr@alkhorayef.com
+* idris.slc@eajb.com.sa
+* careershr2006@gmail.com
+* hrms_info@yahoo.com
+* marblek6@yahoo.com
+* turki@safari.com.sa
+* jobs_wfi@yahoo.com
+* gdcjed@yahoo.com
+* n_somarajan@yahoo.com
+* hr@daleelteq.com
+* acbi-career@cbi.com
+* job_cv_email@yahoo.com
+* resume@al-khaleej.net
+* jobs@metco.com.sa
+* info@msargroup.com
+* tuttimango@sps.net.sa
+* salaliw@yahoo.com
+* hrd@ermatc.com
+* rcgc@riyadh-cables.com
+* myqassem@hotmail.com
+* fishingksa@gmail.com
+* jciservices@yahoo.com
+* itjobs@kojamjoom.com
+* personnelksa@gmail.com
+* ksajob06@yahoo.com
+* light2005-jobs@yahoo.com
+* hr@nasaviation.com
+* fastrecruitment@hotmail.com
+* executive@souksconsulting.com
+* saudi_job_app@yahoo.com
+* info@qecons.com
+* scphr@saudichevron.com
+* alwassel@anet.net.sa
