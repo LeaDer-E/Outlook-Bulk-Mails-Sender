@@ -67,6 +67,8 @@ SOON
 ## Optimizations
 
 in order that when We Try to Send More and More E-Mails, Application will stop trmporary because spamming issue, we have to open the code and remove the mail that we have send to it, then try run application later.
+Watch out From: We've noticed some unusual activity in your Outlook account. To help protect you, we've temporarily blocked it. Please verify your account. 
+You can verify and problem will be resolve and you can use the program again
 
 ## Known Issues
 
