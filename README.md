@@ -85,8 +85,7 @@ You can verify and problem will be resolve and you can use the program again
 
 ![image](https://user-images.githubusercontent.com/99460904/227046565-d87ebb12-6574-4ebc-9692-266b90078e6c.png)
 
-when You Get Error About Blocking You Can Try To Unlock E-Mail With Small Verify by Your Phone Number.
-Working with Microsoft Edge Browser, You cat take a look about this [Topic][Topic]
+"If you receive an error message indicating that your email has been blocked, you can try to unblock it by verifying your phone number. This can be done using the Microsoft Edge browser. If you are unsure about how to do this, You can take a look about this [Topic][Topic]. It is a Easy process, so there's no need to worry. If you are still hesitant, you could also consider creating a new account to use the tool."
 
 [Topic]: https://support.microsoft.com/en-us/account-billing/account-has-been-locked-805e8b0d-4141-29b2-7b65-df6ff6c9ce27
 
