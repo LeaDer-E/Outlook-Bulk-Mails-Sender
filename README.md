@@ -54,7 +54,7 @@ Change The Lines Above:
 23     attachment.add_header('Content-Disposition', 'attachment', filename='File_Name.pdf') >> Change 'File_Name.pdf' to the name of the file you that will be in the Sending Mail.
 29     server.login('Your_Email@outlook.com', 'Your_Password!') >> Change Your_Email With Your Read E-Mail, And Your_Password With Your Read Password
 30     server.sendmail('Your_Email@outlook.com', to_addresses, msg.as_string()) >> also Change Your_Email To Your Read E-Mai
-34     to_addresses = ['E-Mail@Example.com', 'E-Mail@Example.com', 'E-Mail@Example.com'] >> Change The E-Mails Value to The E-mails that U Need to Send Mails to Them, and make sure there are in [] Every mail in '' with , after ' i hope you understand :D
+34     to_addresses = ['E-Mail@Example.com', 'E-Mail@Example.com', 'E-Mail@Example.com'] >> Change The E-Mails Value to The E-mails that U Need to Send Mails to Them, and make sure there are in [] Every mail in single or duble quotation, i hope you understand :D
 35     subject = "Mail Subject" >> Change "Mail Subject" with Your Subject
 36     message = "Mail Message" >> Change "Mail Message" With Your "Message" you can use \n to go to the next line
 37     attachment_path = 'File/Path.pdf' >> Change "File/Path.pdf" with your name of file u need to attachment it, if the file at the same folder with py code, or enter it Path from your PC if it dose not exist in folder of py project.
