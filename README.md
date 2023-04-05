@@ -60,6 +60,52 @@ Change The Lines Above:
 37     attachment_path = 'File/Path.pdf' >> Change "File/Path.pdf" with your name of file u need to attachment it, if the file at the same folder with py code, or enter it Path from your PC if it dose not exist in folder of py project.
 
 ```
+
+## Attach Two Files:
+To attach two files as PDF, you can modify the `send_email` function to accept a list of attachment paths instead of a single path. Then, you can iterate over the attachment paths and attach each file to the email.
+Here's an updated version of the `send_email` function that can handle multiple attachments:
+```bash
+def send_email(to_addresses, subject, message, attachment_paths):
+    # Set up the email message
+    msg = MIMEMultipart()
+    msg['From'] = 'Your_Email_Or_User_Name'
+    msg['To'] = ', '.join(to_addresses)
+    msg['Subject'] = subject
+
+    # Add the message to the email
+    body = MIMEText(message)
+    msg.attach(body)
+
+    # Add the attachments to the email
+    for attachment_path in attachment_paths:
+        with open(attachment_path, 'rb') as file:
+            attachment = MIMEApplication(file.read(), _subtype='pdf')
+            attachment.add_header('Content-Disposition', 'attachment', filename='File_Name.pdf')
+            msg.attach(attachment)
+
+    # Connect to the SMTP server and send the email
+    server = smtplib.SMTP('smtp.office365.com', 587)
+    server.starttls()
+    server.login('Your_Email@outlook.com', 'Your_Password!')
+    server.sendmail('Your_Email@outlook.com', to_addresses, msg.as_string())
+    server.quit()
+```
+
+To use this function to send an email with two attachments, you can call it like this:
+
+```bash
+to_addresses = ['E-Mail@Example.com', 'E-Mail@Example.com', 'E-Mail@Example.com']
+subject = "Mail Subject"
+message = "Mail Message"
+attachment_paths = ['File/Path1.pdf', 'File/Path2.pdf']
+for address in to_addresses:
+    send_email([address], subject, message, attachment_paths)
+    print("[+] Mail Sended to :", address," ^.^")
+    time.sleep(5)
+```
+
+This code will attach both `File/Path1.pdf` and `File/Path2.pdf` to the email message.
+
 ## Demo
 ![My Video2](https://user-images.githubusercontent.com/99460904/227059434-d9e3efe3-1bc5-429b-b456-f9628df0fe36.gif)
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/99460904/227000086-94db699a-dfe0-4b58-82ab-cf0a10b2efa2.gif)
